@@ -18,7 +18,7 @@ Clone Twitter user layout, stylized with CSS Flexbox.
   <a href="#memo-license">License</a>
 </p>
                          
-![Peek 07-10-2020 20-04-min](https://user-images.githubusercontent.com/53797220/95397114-c9691f80-08d8-11eb-9293-bf2949a30ed3.gif)
+ <img alt="twitter" src="https://github.com/carlosgustavo/twitter-layout/blob/master/twitter-layout.png" />
 
 ## :rocket: Technologies
 

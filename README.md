@@ -19,7 +19,7 @@ Clone Twitter user layout, stylized with CSS Flexbox.
 </p>
             
   <h1 align="center">
- <img  alt="twitter" src="https://github.com/carlosgustavo/twitter-layout/blob/master/twitter-layout.png" />
+ <img  alt="twitter" src="https://github.com/carlosgustavo/twitter-layout/blob/master/Twitter_files/twitter-layout.png" />
 </h1>
 
 ## :rocket: Technologies

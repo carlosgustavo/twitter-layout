@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-Website, services, register, stylized with Box-Modal,icons, menu.
+Clone Twitter user layout, stylized with CSS Flexbox.
 </h4>
 <p align="center">
   <img alt="languages" src="https://img.shields.io/github/languages/top/carlosgustavo/twitter-layout">
